@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://nguyenviethong.github.io/site/vi/cv/mycv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nguyenviethong.github.io/site/en/cv/mycv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://nguyenviethong.github.io/site/vi/cv/mycv/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nguyenviethong.github.io/site/vi/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nguyenviethong.github.io/site/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://nguyenviethong.github.io/site/vi/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nguyenviethong.github.io/site/vi/cv/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nguyenviethong.github.io/site/en/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://nguyenviethong.github.io/site/vi/cv/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nguyenviethong.github.io/site/vi/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nguyenviethong.github.io/site/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://nguyenviethong.github.io/site/vi/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nguyenviethong.github.io/site/vi/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nguyenviethong.github.io/site/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://nguyenviethong.github.io/site/vi/"
+                />
+  </url>
+  
+</urlset>
