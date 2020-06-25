@@ -3,76 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nguyenviethong.github.io/site/vi/cv/mycv/</loc>
+    <loc>http://localhost:1313/vi/cv/mycv/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nguyenviethong.github.io/site/en/cv/mycv/"
+                href="http://localhost:1313/en/cv/mycv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://nguyenviethong.github.io/site/vi/cv/mycv/"
+                href="http://localhost:1313/vi/cv/mycv/"
                 />
   </url>
   
   <url>
-    <loc>https://nguyenviethong.github.io/site/vi/categories/</loc>
+    <loc>http://localhost:1313/vi/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nguyenviethong.github.io/site/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://nguyenviethong.github.io/site/vi/categories/"
+                href="http://localhost:1313/vi/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://nguyenviethong.github.io/site/vi/cv/</loc>
+    <loc>http://localhost:1313/vi/cv/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nguyenviethong.github.io/site/en/cv/"
+                href="http://localhost:1313/en/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://nguyenviethong.github.io/site/vi/cv/"
+                href="http://localhost:1313/vi/cv/"
                 />
   </url>
   
   <url>
-    <loc>https://nguyenviethong.github.io/site/vi/tags/</loc>
+    <loc>http://localhost:1313/vi/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nguyenviethong.github.io/site/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://nguyenviethong.github.io/site/vi/tags/"
+                href="http://localhost:1313/vi/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://nguyenviethong.github.io/site/vi/</loc>
+    <loc>http://localhost:1313/vi/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nguyenviethong.github.io/site/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://nguyenviethong.github.io/site/vi/"
+                href="http://localhost:1313/vi/"
                 />
   </url>
   
